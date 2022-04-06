@@ -1,11 +1,11 @@
 /*en caso de no tener el normalize poner el margin en 0 y el box-sizing:border-box;*/
 
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
+}*/
+ 
 .header{
     background-color: #191c15;
     height: 80px;
