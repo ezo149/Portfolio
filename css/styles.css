@@ -1,10 +1,10 @@
 /*en caso de no tener el normalize poner el margin en 0 y el box-sizing:border-box;*/
 
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}*/
+}
  
 .header{
     background-color: #191c15;
@@ -141,7 +141,7 @@
 /*Body*/
 body{
     font-family: 'Roboto', sans-serif;
-    padding: 90px 0 0;
+    padding: 80px 0 0;
     background-color: #191c32;
     color: #fff;
 }
