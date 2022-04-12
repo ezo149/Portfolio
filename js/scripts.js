@@ -1,1 +1,0 @@
-// scrips de la pag
